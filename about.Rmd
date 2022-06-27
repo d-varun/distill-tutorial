@@ -8,3 +8,18 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+Hello! My name is **Varun Dommeti**, a Sophomore at Dublin Jerome High School. Some of my interests are programming and music!
+
+## About the Project
+My project *Temporary Title*, will relate to music, but I'm not entirely sure exactly what yet!
+
+## Goals
+* Display and modify data related to music
+* Create a visually pleasing website for viewing musical data
+  + Take into account bias by asking others for opinions on website design
+  
+"This is data science"  
+~ Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
