@@ -6,7 +6,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\nAbout Me\nHello! My name is Varun Dommeti, a Sophomore at\nDublin Jerome High School. Some of my interests are programming and\nmusic!\nAbout the Project\nMy project Temporary Title, will relate to music, but I’m\nnot entirely sure exactly what yet!\nGoals\nDisplay and modify data related to music\nCreate a visually pleasing website for viewing musical data\nTake into account bias by asking others for opinions on website\ndesign\n\n“This is data science”\n\nPreceptor\n\nKane’s Free High School\nData Science Bootcamp\n\n\n\n",
-      "last_modified": "2022-06-27T18:31:57-04:00"
+      "last_modified": "2022-06-27T19:50:53-04:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,33 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-06-27T18:31:59-04:00"
+      "last_modified": "2022-06-27T19:50:55-04:00"
+    },
+    {
+      "path": "source_A.html",
+      "title": "Source A",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Varun Dommeti",
+          "url": {}
+        }
+      ],
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-06-27T19:50:56-04:00"
+    },
+    {
+      "path": "source_B.html",
+      "title": "Source B",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Varun Dommeti",
+          "url": {}
+        }
+      ],
+      "contents": "\nDistill is a publication format for scientific and technical writing,\nnative to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2022-06-27T19:50:56-04:00"
     }
   ],
   "collections": []
